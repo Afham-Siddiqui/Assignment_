@@ -1,0 +1,82 @@
+#a2{
+    width: 22%;
+    height: 20%;
+    padding-left: 10%;
+    padding-top: 30px;
+}
+#a4{
+    text-decoration: none;
+    color: black;
+    padding: 19px;
+    background-color: rgb(255, 183, 0);
+    font-size: 12.22708px;
+    font-weight: 500;
+    font-style: inherit;
+}
+#a3{
+    text-align: right;
+    padding: 0%;
+}
+#a4:hover{
+    background-color: maroon;
+    color: white;
+    transition: 0.6s;
+}
+#a5{
+    background-color: maroon;
+    color: white;
+    padding: 19px;
+    text-decoration: none;
+    font-size: 12.22708px;
+}
+#a6{
+    text-decoration: none;
+    color: black;
+    padding: 12px;
+    font-weight: 800;
+    
+}
+#a7{
+    list-style: none;
+    text-align: right;
+    
+}
+li{
+    display: inline;
+    padding: 7px;
+    font-size: 13.0489;
+}
+#a6:hover{
+    background-color: maroon;
+    color: white;
+    box-shadow: 4px 6px rgb(148, 144, 144);
+    transition: 0.4s;
+}
+#a8{
+    background-color: maroon;
+    color: white;
+    box-shadow: 4px 6px rgb(148, 144, 144);
+    padding: 12px;
+    text-decoration: none;
+}
+#a9{
+    background-color: rgb(154, 12, 12);
+    margin: 0%;
+    font-size: 1.8em;
+    padding-top: 0.004px;
+    padding-bottom: 0.004px;
+}
+#a10{
+    padding-left: 60px;
+    color: white;
+    font-weight: lighter;
+}
+#a11{
+    color: red;
+    background-color: white;
+    margin-left: 80%;
+    text-decoration: none;
+    font-size: 10.9622px;
+    padding: 0.75em 0.875em;
+}
+
